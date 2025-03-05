@@ -1,0 +1,1 @@
+este es el cotidiano numero 5, su objetivo es que los estudiantes conprendan conceptos basicos de Git.
